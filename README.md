@@ -22,3 +22,9 @@ To build a scalable and real-time data processing pipeline that ingests customer
 1. Start Kafka and Airflow using Docker Compose.
 2. Use the Kafka producer to send JSON order data.
 3. Airflow triggers Spark jobs for transformation.
+
+---
+
+## Real-World Relevance
+
+This project reflects my professional experience at Infosys, where I built and maintained real-time data pipelines for a retail/e-commerce client. It simulates the ingestion, processing, and orchestration of streaming customer order data using tools such as Apache Kafka, Apache Airflow, and Apache Spark. The repository demonstrates a simplified version of the production architecture I worked on, adapted with open-source tools and mock data to showcase the end-to-end pipeline functionality while maintaining data privacy.
