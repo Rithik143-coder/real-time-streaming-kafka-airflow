@@ -1,0 +1,4 @@
+
+{"order_id": 1, "customer": "John", "amount": 120.5}
+{"order_id": 2, "customer": "Alice", "amount": 89.9}
+{"order_id": 3, "customer": "Bob", "amount": 45.3}
